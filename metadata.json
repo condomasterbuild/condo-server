@@ -1,0 +1,6 @@
+{
+  "name": "CondoIndex",
+  "description": "Curated directory of virtual condo worlds and indie social hangout games with live player counts, community likes, and instant server browsing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
